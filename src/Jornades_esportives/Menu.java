@@ -26,6 +26,20 @@ public class Menu {
     public static String blue = "\033[34m";
     public static String reset = "\u001B[0m";
 
+    
+    
+    
+    
+    public static void ModificacionCristian(){
+        
+     System.out.println("HOLA QUE ASE!");
+    }
+    
+    
+    
+    
+    
+    
     /**
      * Metodo que te muestra el menú principal y devuelve mediante pedirEntero un int
      * @return  int
