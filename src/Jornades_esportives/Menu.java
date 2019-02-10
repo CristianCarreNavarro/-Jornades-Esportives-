@@ -33,7 +33,11 @@ public class Menu {
     public static void ModificacionCristian(){
         
      System.out.println("HOLA QUE ASE!");
+<<<<<<< HEAD
      System.out.println("MODIfy!");
+=======
+     System.out.println("CONFLICTO");
+>>>>>>> 2fb13d7e9212db371d6494a9bb12d1ba8be513a5
     }
     
     
